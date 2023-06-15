@@ -1,3 +1,5 @@
+![](https://carlosalfonzo.tech/docs/banner.png)
+
 ### 🌎 Career Summary
 
 #### EN 🇺🇸 
