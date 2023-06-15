@@ -2,11 +2,11 @@
 
 ### 🌎 Career Summary
 
-#### EN 🇺🇸 
+#### EN 🇺🇸
 
 I am a passionate and experienced Systems Engineer in the software industry with **5 years as a full-stack developer and mobile developer**. I have a successful history of working with small and medium-sized startups, designing SAAS products, and developing projects in many industries. I am also an expert at remote work and have successfully managed large, remote teams. Solving problems, discovering new options, and thinking about the details of a project's design and structure are what I'm most passionate about. That's why I enjoy it every time I face a challenge every day or in my career.
 
-_These are some of my greatest achievements:_ 
+_These are some of my greatest achievements:_
 
 *   Being part of the team that created the Glewee platform **from day 0 as MVP,** then as a Closed Product, and later on its opening in the US market to more than **10,000 users**. 
 *   Successfully **managing a team of 15 developers**, QA testers, and UI/UX designers completely remotely with Galindo Consulting and delivering the MVP of Glewee LLC 
@@ -28,7 +28,7 @@ _Algunos de mis más grandes logros profesionales han sido los siguientes:_
 
 ### ⛺️ Out of Office
 
-#### EN 🇺🇸 
+#### EN 🇺🇸
 
 If I hadn't been a software engineer, my career would definitely be somewhere between being a chef and the music industry. I enjoy finding new recipes for the same dish, sharing them with my friends or family, and enjoying their reactions when they try a dish for the first time.
 
@@ -46,7 +46,7 @@ Mi familia y mi perra Zoey son definitivamente mi mayor orgullo y usualmente no 
 
 ### 🤿 Skills and Frameworks
 
-#### Frontend 🖼️ 
+#### Frontend 🖼️
 
 *   Javascript ES6, Vanilla, ES12
 *   Typescript
@@ -64,9 +64,36 @@ Mi familia y mi perra Zoey son definitivamente mi mayor orgullo y usualmente no 
 
 #### Backend🔮
 
+*   Php
+*   Laravel
+*   Lumen
+*   Node.Js
+*   Express.js
+*   Sequelize.js
+*   MySQL
+*   PostgreSQL
+*   Database modeling and design
+*   Rest API modeling
+*   Python and Django_(📒learning process)_
+
 #### Others 🌊
 
+*   Solidity
+*   JIRA
+*   Scrum Developer
+*   Kanban Developer
+*   Scrum Master
+*   Trello management
+*   Github boards and project templates
+*   Figma and UI/UX designer enthusiast
+
 ### 👨🏽‍💻 Side Projects
+
+*   **Portfolio site**  
+    _skills set:_ React.JS + Typescript + CSS grid + Framer Motion  
+    [`enter here`](https://carlosalfonzo.tech)
+*   **Beach Tennis**  
+    _skills set:_ React Native + Python + Django + Django REST Framework
 
 ### 📬 Contact
 
